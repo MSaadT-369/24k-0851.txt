@@ -1,0 +1,11 @@
+start 
+input two number is num1 and num2 
+input an operator in op
+initialize result 
+if op == + THEN result=num1 +num2
+else if op == - THEN result = num1 -num2
+else if op == / and num2 != 0 THEN result = num1 / num2
+else if op == * then result = num1 * num2
+else if op == % then result = num1 % num2
+print "the result is "result""
+stop
