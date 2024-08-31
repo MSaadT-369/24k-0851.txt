@@ -1,0 +1,8 @@
+START
+INPUT num1
+INPUT num2
+INPUT operator (only - or +)
+SET ANS TO 0
+USE operator to perform evaluation between num2 to num1 and store it in ANS ANS= num1 operator(- or +) num2
+PRINT ("ANS")
+STOP
