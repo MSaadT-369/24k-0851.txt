@@ -1,1 +1,9 @@
-
+START
+INPUT A NUMBER N
+INPUT A DIVISOR D
+check if d is a divisor of n by checking if n/d leaves a remainder or not if yes then it is not a divisor if no then it is a divisor
+IF N % D == 0 THEN 
+  PRINT "N IS A DIVISOR"
+ELSE 
+  PRINT "N IS NOT A DIVISOR"
+STOP
