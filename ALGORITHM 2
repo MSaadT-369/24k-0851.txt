@@ -1,0 +1,16 @@
+START
+INPUT A NUMBER BETWEEN 1-12 IN month
+if month>12 or month<1 then print "invalid number"
+else if month==1 then print "january"
+else if month==2 then print "feburary"
+else if month==3 then print "march"
+else if month==4 then print "april"
+else if month==5 then print "may"
+else if month==6 then print "june"
+else if month==7 then print "july"
+else if month==8 then print "august"
+else if month==9 then print "september"
+else if month==10 then print "octuber"
+else if month==11 then print "november"
+else if month==12 then print "december"
+stop
